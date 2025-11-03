@@ -42,10 +42,8 @@ For the 'Opportunity' customer segment, the top recommendation was that educatio
 For the 'Least Contributor' customer class, the company was advised not to spend resources on retaining them, but rather let them naturally self-upgrade to a higher customer class or self-dropout. 
 
 #### Technology
-1. Jupyter Notebook IDE
-2. Python (Program codes)
-3. MS Excel Package (Data aggregation)
+1. Jupyter Notebook IDE (Coding environment)
+2. Python (Programming language)
+3. MS Excel (Data aggregation)
 4. MS PowerPoint (Presentation to the management team)
 5. MS Word (Project report development for other company stakeholders, also for project process and results documentation)
-6. MS PowerPoint (Slide presentation) 
-7. MS Word (Report development)  
