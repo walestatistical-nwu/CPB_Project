@@ -4,7 +4,7 @@ The Management of ABC Inc. desired to leverage customers' economic choices and s
 to understand their purchasing patterns and use insights gained from the process to enhance the company's product sales, thereby positively impacting its annual bottom line.
 
 #### Project Overview
-In the project, four business questions and a hypothesis — 'All (Male and Female) customers purchase equally vs All customers (Male and Female) do not purchase equally' — were interrogated through the analysis of a subset (1,966 records x 11 features) of the dataset sourced from [https://www.kaggle.com/brijbhushannanda1979/bigmart-sales-data] and through a 2-level data analysis approach. Machine learning classification models were constructed and consequent exploratory data analyses performed, to generate insights used to provide marketing strategy recommendations to the management team, towards achieving the goal of increased yearly profit for the company.   
+In the project, four business questions and a hypothesis — 'All (Male and Female) customers purchase equally vs All customers do not purchase equally' — were interrogated through the analysis of a subset (1,966 records x 11 features) of the dataset sourced from [https://www.kaggle.com/brijbhushannanda1979/bigmart-sales-data] and through a 2-level data analysis approach. Machine learning classification models were constructed and consequent exploratory data analyses performed, to generate insights used to provide marketing strategy recommendations to the management team, towards achieving the goal of increased yearly profit for the company.   
 
 #### Data Analytics Process
 The 2-level data analysis procedure consists of:
@@ -12,7 +12,8 @@ The 2-level data analysis procedure consists of:
     a.	Recency, Frequency, and Monetary (RFM) analytical framework,
     b.	K-Mean Nearest Neighbour classification modeling,
     c.	Hierarchical classification modeling, and
-  	d.  Performance of a statistical significance test to ascertain whether customers (male and female) exhibit similar purchasing         behaviours.
+  	d.  Performance of a statistical significance test to ascertain whether all (male and female) customers exhibit similar 
+        purchasing behaviours.
 3.	Level 2 – Exploratory Data Analysis (EDA) of the identified Customer segments
 
 #### Result
@@ -21,7 +22,8 @@ The 2-level data analysis procedure consists of:
 2.    Further analyses and interpretation of the customer clusters identified:
       a. Cluster 2 as 'Premium' customer segment
       b. Clusters 1 & 3 as 'Opportunity' customer segments
-      c. Cluster 4 as the 'Least Contributor' customer segment   
+      c. Cluster 4 as the 'Least Contributor' customer segment
+      d. All (Male and Female) customers were not purchasing equally    
 ##### Insights
 The following were inferred from the findings and interpretations from the analyses performed:
 1.    Within the 'Premium' segment, youths (between the ages of 26 and 32 
